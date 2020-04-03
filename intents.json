@@ -62,7 +62,7 @@
         {
         	"tag":"positive cases-total world",
         	"patterns":["How many positive cases reported totally in the world?","Total cases till now?","Number of positive Coronavirus cases predicted till now in the whole world?","corona cases in the world"],
-        	"responses":["Total number of positive coronavirus cases reported till now in the whole world is  "],
+        	"responses":["Total number of positive coronavirus cases reported till now in the whole world are 10,39,166 "],
         	"context":""
         },
 
@@ -76,28 +76,28 @@
         {
         	"tag":"people recovered - total world",
         	"patterns":["how many people have recovered in the total world till now?","people recovered from coronavirus till now in the whole world?","The number of recovered cases in the world?"],
-        	"responses":["The total number of people recovered from COVID-19 in the total world is  "],
+        	"responses":["The total number of people recovered from COVID-19 in the total world are 2,19,019 "],
         	"context":""
         },
 
         {
         	"tag":"Death cases - total world",
         	"patterns":["how many people died in the total world till now?","people died from coronavirus till now in the whole world?","The number of death cases in the world?"],
-        	"responses":["The total number of people died because of COVID-19 in the total world is  "],
+        	"responses":["The total number of people died because of COVID-19 in the total world are 55,092 "],
         	"context":""
         },
 
         {
         	"tag":" positive cases in India",
         	"patterns":["How many positive cases are reported in India till now?","Total positive cases in India?","Number of positive cases in India?","Total positive cases?"],
-        	"responses":["The number of cases reported in India till now are "],
+        	"responses":["The number of cases reported in India till now are 2,547"],
         	"context":""
         },
 
         {
         	"tag":"Deaths in India",
         	"patterns":["how many people have died in India because of coronavirus?","Number of death cases in India?","Total deaths in India due to coronavirus?"],
-        	"responses":[" ___  people have died in India because of coronavirus till now"],
+        	"responses":[" 62 people have died in India because of coronavirus till now"],
         	"context":""
 
         },
@@ -105,14 +105,14 @@
         {
         	"tag":"recovered cases in India",
         	"patterns":["How many people are cured?","Total number of people recovered from Coronavirus?","Recovered cases in India?"],
-        	"responses":["The total number of people recovered from coronavirus in India are:  "],
+        	"responses":["The total number of people recovered from coronavirus in India are: 163 "],
         	"context":""
         },
 
         {
         	"tag":"China",
         	"patterns":["how many people died in China?","Death cases in China till now?","cured cases in China?","how many people are recovered in China from coronavirus?","what are the total number of positive cases reported in China?","How many people are affected with coronavirus till now in china?"],
-        	"responses":["Total positive cases ___ - Total deaths ___ - Total recovered cases - ___"],
+        	"responses":["Total positive cases 81,620 - Total deaths 3,322 - Total recovered cases - 76,571"],
         	"context":""
 
         },
@@ -120,14 +120,14 @@
         {
         	"tag":"Italy",
         	"patterns":["how many people died in Italy?","Death cases in Italy till now?","cured cases in Italy?","how many people are recovered in Italy from coronavirus?","what are the total number of positive cases reported in Italy?","How many people are affected with coronavirus till now in Italy?"],
-        	"responses":["Total positive cases ___ - Total deaths ___ - Total recovered cases - ___"],
+        	"responses":["Total positive cases 76,571- Total deaths 13,915 - Total recovered cases - 18,278"],
         	"context":""
         },
 
         {
         	"tag":"United States",
         	"patterns":["how many people died in USA?","Death cases in USA till now?","cured cases in USA?","how many people are recovered in USA from coronavirus?","what are the total number of positive cases reported in USA?","How many people are affected with coronavirus till now in USA?"],
-        	"responses":["Total positive cases ___ - Total deaths ___ - Total recovered cases - ___"],
+        	"responses":["Total positive cases 2,45,974 - Total deaths 6,126 - Total recovered cases - 10,411"],
         	"context":""
         }
         
